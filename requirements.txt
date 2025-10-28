@@ -1,0 +1,4 @@
+customtkinter
+mitmproxy
+opencv-python
+pystray
